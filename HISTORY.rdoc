@@ -1,3 +1,7 @@
+=== 0.6.4 2013-01-02
+
+* Minor changes to support ruby 1.9
+
 = RELEASE HISTORY
 
 == 0.6.3 / 2010-09-21
@@ -151,4 +155,3 @@ together.
 Changes:
 
 * Happy Birthday!
-
